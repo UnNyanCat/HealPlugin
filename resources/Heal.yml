@@ -1,0 +1,14 @@
+---
+# {-- UnNyanCat Config --}
+heal-prefix: "§7[§gHeal§7]"
+heal-other: "§best un joueur et a été soigné(e)."
+healed-by-other: " §aTu as été soigné(e) par "
+not-player: "n'est pas un joueur."
+forget-name: " §cTu as oublié le nom d'un joueur."
+healed-because-no-name: " §aTu as donc été soigné avec succès !"
+heal-amount: 20
+heal-full-life: "§cYour health is already full"
+heal-message: "§aYou've been healed with success"
+be-player: "Vous êtes un joueur"
+be-console: "Vous êtes une console"
+...

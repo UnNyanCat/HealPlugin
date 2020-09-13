@@ -1,0 +1,5 @@
+name: Heal
+author: UnNyanCat
+version: 0.1
+main: UnNyanCat\Heal\Main
+api: [3.0.0]
